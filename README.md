@@ -18,7 +18,7 @@ foo@bar:~$python main.py img.jpg
 Image: <i>Original Image, Cartoonized Image and Edge of Image</i>
 
 
-<img src="https://github.com/tirthjivani/Prj_Cartoonized_Images/blob/master/original_img.jpg" width="300" />   <img src="https://github.com/tirthjivani/Prj_Cartoonized_Images/blob/master/cartoon.png" width="300" />   <img src="https://github.com/tirthjivani/Prj_Cartoonized_Images/blob/master/edge.png" width="300" />
+<img src="https://github.com/tirthjivani/Prj_Cartoonized_Images/blob/master/original_img.jpg" width="200" />   <img src="https://github.com/tirthjivani/Prj_Cartoonized_Images/blob/master/cartoon.png" width="200" />   <img src="https://github.com/tirthjivani/Prj_Cartoonized_Images/blob/master/edge.png" width="200" />
 
 
 
