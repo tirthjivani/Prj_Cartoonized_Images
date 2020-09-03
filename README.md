@@ -11,11 +11,11 @@ This was a small try for using and testing OpenCV2 library.
 3. Run
 
 ```console
-python main.py img.jpg
+foo@bar:~$python main.py img.jpg
 ```
 
-
-
+### Example
+<img src="https://github.com/tirthjivani/Prj_Cartoonized_Images/blob/master/original_img.jpg" width="300" />   <img src="https://github.com/tirthjivani/Prj_Cartoonized_Images/blob/master/cartoon.png" width="300" />   <img src="https://github.com/tirthjivani/Prj_Cartoonized_Images/blob/master/edge.png" width="300" />
 
 
 
